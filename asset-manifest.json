@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ts-Memo/static/css/main.073c9b0a.css",
+    "main.js": "/ts-Memo/static/js/main.a606440a.js",
+    "static/js/787.f3a8b5c2.chunk.js": "/ts-Memo/static/js/787.f3a8b5c2.chunk.js",
+    "index.html": "/ts-Memo/index.html",
+    "main.073c9b0a.css.map": "/ts-Memo/static/css/main.073c9b0a.css.map",
+    "main.a606440a.js.map": "/ts-Memo/static/js/main.a606440a.js.map",
+    "787.f3a8b5c2.chunk.js.map": "/ts-Memo/static/js/787.f3a8b5c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a606440a.js"
+  ]
+}
